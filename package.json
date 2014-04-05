@@ -1,7 +1,7 @@
 {
   "name": "enumerate-error",
   "description": "enumerate non-enumerable properties of an error object",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "Jonathan Ong",
     "email": "me@jongleberry.com",
@@ -9,12 +9,5 @@
     "twitter": "https://twitter.com/jongleberry"
   },
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/jonathanong/enumerate-error.git"
-  },
-  "bugs": {
-    "mail": "me@jongleberry.com",
-    "url": "https://github.com/jonathanong/enumerate-error/issues"
-  }
+  "repository": "component/enumerate-error"
 }
