@@ -1,7 +1,7 @@
 {
   "name": "enumerate-error",
   "description": "enumerate non-enumerable properties of an error object",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "license": "MIT",
   "repository": "component/enumerate-error",
   "scripts": ["index.js"]
