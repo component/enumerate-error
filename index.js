@@ -7,6 +7,7 @@ module.exports = function enumerateError(err) {
     message: enumerate,
     stack: enumerate,
     type: enumerate,
+    name: enumerate,
   })
   return err
 }
